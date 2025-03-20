@@ -1,5 +1,3 @@
-service:
-  name: configClient
 spring:
   profiles:
     active: local
