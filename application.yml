@@ -1,7 +1,7 @@
-spring:
-  profiles:
-    active: local
-    group:
-      local:
-        - local
-        - local-extra
+#spring:
+#  profiles:
+#    active: local
+#    group:
+#      local:
+#        - local
+#        - local-extra
