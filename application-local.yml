@@ -1,5 +1,5 @@
 server:
-  port: 9090
+  port: 11111
 my:
   custom:
     app: hello
