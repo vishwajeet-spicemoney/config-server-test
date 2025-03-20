@@ -1,7 +1,9 @@
-spring:
-  profiles:
-    active: local
-    group:
-      local:
-        - local
-        - local-extra
+service:
+  name: configClient
+#spring:
+#  profiles:
+#    active: local
+#    group:
+#      local:
+#        - local
+#        - local-extra
